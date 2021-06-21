@@ -1,0 +1,15 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+.img{
+    height: 85%;
+    width: 100%;
+}
+
+.center{
+    padding: 0;
+    margin: auto;
+}
