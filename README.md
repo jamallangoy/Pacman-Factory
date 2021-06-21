@@ -1,5 +1,7 @@
 # Pacman-Factory
 
+<img src="https://github.com/jamallangoy/Pacman-Factory/blob/main/images/pacManBackground.jpg" width="300px" style="borderRadius: 50%"/>
+
 ## Version 1 - Week 7: IGithub, Testing, and the DOM (MIT XPro, June 2021)
 
 # Description
