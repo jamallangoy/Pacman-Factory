@@ -6,7 +6,7 @@
 
 # Description
 
-Pacman-Factory is a brief javascript simulation that creates an unlimited amount of Pacmen, and have move around on the window within specific boundaries. 
+Pacman-Factory is a brief javascript simulation that creates an unlimited amount of Pacmen, and have them move around on the window within specific boundaries. 
 
 # How to Run
 
